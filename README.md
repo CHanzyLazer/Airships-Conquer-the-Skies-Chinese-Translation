@@ -15,7 +15,7 @@
 # 加入项目
 直接fork本项目，修改后直接发起pull request即可
 
-本人可能没有时间长期维护，十分希望有能力和时间的人接手本项目
+本人可能没有时间长期维护，十分欢迎有能力和时间的人接手本项目
 
 # 参与人员
 [CHanzyLazer](https://github.com/CHanzyLazer)（QQ: 1265919599, A1）
@@ -23,3 +23,6 @@
 GhostBot101 (QQ: 2630034415)
 
 QQ群：375161254, Airships(ACS)交流群，入群问题答案：suspendium
+
+# 未来计划
+其他模组的汉化
