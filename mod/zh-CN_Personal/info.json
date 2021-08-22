@@ -5,7 +5,7 @@
 		"en": "Personal Chinese Translation Mod"
 	},
 	"description": {
-		"en": "This is a personal Chinese translation mod. Version: v1.0.21.6",
-		"chi":"这是一个个人汉化模组，版本：v1.0.21.6"
+		"en": "这是一个个人汉化模组，版本：v1.0.21.6\n补全和修正了部分官方汉化\n更多信息参考github：https://github.com/CHanzyLazer/Airships-Conquer-the-Skies-Chinese-Translation",
+		"chi":"这是一个个人汉化模组，版本：v1.0.21.6\n补全和修正了部分官方汉化\n更多信息参考github：https://github.com/CHanzyLazer/Airships-Conquer-the-Skies-Chinese-Translation"
 	}
 }
